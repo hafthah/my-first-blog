@@ -1,0 +1,19 @@
+hafthah02\hafth
+CD para saber a localização da página
+DIR
+CD <NOMEDAPASTA>
+MKDIR
+CD .. Volta para o nível anterior
+rmdir /S
+
+D:\CMPUS\django\djangogirls>myvenv\Scripts\activate
+
+(myvenv) D:\CMPUS\django\djangogirls>
+
+
+myvenv\Scripts\activate
+
+o prompt -- digitar comandos (códigos) no interpretador de Python resulta em respostas em Python
+números e strings -- no Python, números são usados para matemática e strings, para objetos de texto
+operadores -- como + e *, combinam valores para produzir um novo valor
+funções -- como upper() e len(), executam ações nos objetos.
